@@ -7,7 +7,7 @@ public class SkillDemoTest {
 
     @Test
     public void runTest(){
-        assertEquals(0, SkillDemoCode.multiply(1, 1));
+        assertEquals(1, SkillDemoCode.multiply(1, 1));  //passing test
     }
     
 }
